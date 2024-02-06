@@ -21,3 +21,11 @@ AGE:	        40 years
 [**Computer Engineering 120 ECTS examina**](https://studenter.miun.se/~jolu1207/writeable/work/diploma/). Mid Sweden University, Östersund. Distance. 
   A selection: C++, Java, Java EE, PostgreSQL, Linux (Bash scripting), Design Patterns 
 
+### SKILLS:
+  - Java (JVM 8) & Kotlin & Android
+  - C++
+  - MVC, MVVM
+  - Jetpack: Room, Navigation, Android data binding
+  - Web (Javascript ECMAScript 6, HTML5, CSS3)
+  - Databases (SQLite, PostgreSQL, MariaDB)
+  - Git
